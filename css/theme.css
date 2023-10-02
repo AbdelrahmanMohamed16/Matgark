@@ -1,0 +1,34 @@
+input{
+    outline: none;
+}
+span{
+    color: #211e5e;
+}
+.darkColor{
+    color: #1E1B69;
+}
+
+.darkColorbg{
+    background-color: #1E1B69;
+}
+
+.lightColor{
+    color: #65C8D0;
+}
+
+.lightColorbg{
+    background-color: #65C8D0;
+}
+
+.spaceininput{
+    text-indent: 30px;
+}
+
+.radius{
+    border-radius: 18px;
+}
+
+.active1{
+    background-color: #65C8D0;
+    color: #fff;
+}
